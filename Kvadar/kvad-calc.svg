@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW Home & Student X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="50.2124mm" height="32.7686mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 3520 2297"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="666" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Arial">
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="w" horiz-adv-x="722"><path d="M159.332 0l-156.828 519.004 91.985 0 82.8432 -299.506 29.3388 -111.497c1.15749,5.50398 10.1576,41.1736 26.8349,107.009l82.1581 303.995 90.1661 0 78.166 -301.349 25.512 -98.8118 29.8349 100.158 89.6464 300.002 85.5125 0 -162.828 -519.004 -91.0165 0 -82.3235 310.491 -20.8348 88.8432 -105.001 -399.334 -93.1661 0z"/></glyph>
+   <glyph unicode="h" horiz-adv-x="556"><path d="M66.0005 0l0 715.99 87.9928 0 0 -257.648c40.8428,47.835 92.3393,71.6462 154.678,71.6462 38.1499,0 71.3391,-7.48825 99.6622,-22.6537 28.1577,-15.1655 48.3311,-36.0003 60.4965,-62.6698 12.1655,-26.6695 18.1655,-65.5045 18.1655,-116.174l0 -328.491 -87.9928 0 0 328.16c0,43.8429 -9.49614,75.851 -28.3467,95.8354 -18.9923,20.008 -45.6618,30.0002 -80.3156,30.0002 -25.8427,0 -50.1736,-6.66147 -73.0163,-20.1734 -22.8191,-13.4883 -39.0003,-31.8191 -48.8272,-54.9926 -9.66149,-23.0081 -14.5041,-54.8272 -14.5041,-95.5047l0 -283.325 -87.9928 0z"/></glyph>
+   <glyph unicode="l" horiz-adv-x="222"><path d="M63.9926 0l0 715.99 88.0164 0 0 -715.99 -88.0164 0z"/></glyph>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Arial";src:url("#FontID0") format(svg)}
+    .str0 {stroke:black;stroke-width:35.0486}
+    .str1 {stroke:black;stroke-width:14.0194;stroke-dasharray:70.097135 70.097135}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt0 {font-weight:normal;font-size:296.742px;font-family:'Arial'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0 str0" x="18" y="535" width="2783" height="1439"/>
+  <polyline class="fil0 str0" points="719,18 3502,18 3502,1457 "/>
+  <polyline class="fil0 str1" points="719,29 719,1468 3502,1468 "/>
+  <line class="fil0 str0" x1="18" y1="535" x2="722" y2= "14" />
+  <line class="fil0 str0" x1="2800" y1="542" x2="3505" y2= "21" />
+  <line class="fil0 str0" x1="2804" y1="1976" x2="3509" y2= "1454" />
+  <line class="fil0 str1" x1="15" y1="1988" x2="720" y2= "1466" />
+  <text x="2863" y="1306"  class="fil1 fnt0">h</text>
+  <text x="1438" y="2297"  class="fil1 fnt0">l</text>
+  <text x="3260" y="1940"  class="fil1 fnt0">w</text>
+ </g>
+</svg>
