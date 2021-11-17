@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="shortcut icon" type="image/ico" href="favicon.ico" sizes="256x256"/>
+    <title>Kocka</title>
+</head>
+<body >
+
+<header>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-5">
+                <a href="../index.html"><img src="../logo.png" alt=""></a>
+            </div>
+
+            <div class="col-md-7">
+                <h1>Kocka</h1>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+<div class="hero">
+    <div class="container">
+        <div class="col-md-12">
+            <img src="cube-calc.svg" alt=""><br>
+            <div class="unos">
+            <input type="number" onfocus="this.value=''" id="numb1" placeholder="Unesi osnovni brid"><img onclick="reset();resetinp()" class="reload" src="reload_icon_138248.svg" alt=""><br>
+            </div>
+            <div class="rezultati">
+                <p>Oplošje kocke iznosi: <span id="op_rez"><br></span></p>
+                <p>Duljine plošne dijagonale iznosi: <span id="plos_rez"><br></span></p>
+                <p>Duljine prostorne dijagonale iznosi: <span id="pros_rez"><br></span></p>
+                <p>Volumen kocke iznosi: <span id="vol_rez"><br></span></p>
+            </div>
+        </div>
+
+        <button id="btn1" onclick="oplosje()">Izracunaj Oplošje</button><br>
+        <button id="btn2" onclick="plos_diajg()">Izracunaj Plošnu dijagonalu kocke</button><br>
+        <button id="btn3" onclick="pros_diajg()">Izracunaj Prostornu dijagonalu kocke</button><br>
+        <button id="btn4" onclick="vol()">Izracunaj volumen kocke</button>
+
+    </div>
+</div>
+
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="social"><a href="#"><i class="fab fa-instagram"></i></a><a href="#"><i class="fab fa-twitter"></i></a><a href="#"><i class="fab fa-facebook-f"></i></a></div>
+            <p class="copyright">Copyright Easy Maths © 2021</p>
+        </div>
+    </div>
+</footer>
+
+
+<script src="https://kit.fontawesome.com/0261d0091e.js" crossorigin="anonymous"></script>
+<script src="js/Kocka.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
+</body>
+</html>
